@@ -30,7 +30,6 @@ body{
 input{
     width: 320px;
     border: none;
-    /* 1px solid #717377; */
     border-radius: 16px;
     padding: 24px;
     margin: 10px;
@@ -38,7 +37,6 @@ input{
     background: transparent;
     box-shadow: inset -5px -5px 12px #484646,
                 inset 9px 9px 12px rgba(1, 1, 1, 0.16);
-    /* <!-- -->0px 3px 15px rgbs(84,84,84,84,0.1); */
     font-size: 40px;
     text-align: right;
     color: white;
